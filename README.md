@@ -4,7 +4,7 @@ Exploring the reasons for life satisfaction of GB citizens using logistic regres
 
 ### Data
 
-The data comes from the European Social Survey, runda 10: https://ess-search.nsd.no/
+The data comes from the European Social Survey, round 10: https://ess-search.nsd.no/
 European Social Survey data is licensed under CC BY-NC-SA 4.0.
 
 ### Why?
